@@ -4,9 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "tsc index.ts",
-    "start": "node index.js",
-    "buildstart": "yarn build && yarn start"
+    "build": "tsc index.ts"
   },
   "author": "",
   "license": "MIT",
