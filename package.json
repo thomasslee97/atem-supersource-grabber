@@ -1,0 +1,17 @@
+{
+  "name": "atem-state-grabber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js",
+    "buildstart": "yarn build && yarn start"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^12.7.12",
+    "atem-connection": "^1.0.2"
+  }
+}
